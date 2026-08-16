@@ -16,8 +16,10 @@ jobs:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Enable Corepack
-        run: corepack enable
+      - name: Enable Corepack & Prepare Yarn
+        run: |
+          corepack enable
+          corepack prepare yarn@4.9.2 --activate
 
       - name: Install Dependencies
         run: yarn install
