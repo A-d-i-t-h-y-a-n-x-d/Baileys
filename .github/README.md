@@ -6,7 +6,7 @@
 >
 > As of 7.0.0, multiple breaking changes were introduced into the library.
 >
-> Please check out https://whiskey.so/migrate-latest for more information.
+> Please check out https://Aadhixd.net/migrate-latest for more information.
 
 Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.
 
@@ -15,7 +15,7 @@ Join the WhiskeySockets community via the link: https://whiskey.so/discord
 # Usage & Guide
 
 > [!IMPORTANT]
-> The new guide is a work in progress. Expect missing pages/content. [Report missing or incorrect content.](https://github.com/WhiskeySockets/baileys.wiki-site/issues/new)
+> The new guide is a work in progress. Expect missing pages/content. [Report missing or incorrect content.](https://github.com/Aadhixd777/baileys.wiki-site/issues/new)
 >
 > **You can still access the old guide here:** [README.md](https://github.com/Aadhixd777/Baileys/tree/master/README.md), or the [NPM homepage](https://npmjs.com/package/baileys).
 
