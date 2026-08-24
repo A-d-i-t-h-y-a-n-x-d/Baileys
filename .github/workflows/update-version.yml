@@ -1,4 +1,4 @@
-name: Update WhatsApp Version
+Name: Update WhatsApp Version
 
 on:
   schedule:
@@ -38,7 +38,7 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install packages
-        run: yarn install --immutable
+        run: yarn install
 
       - name: Update WhatsApp Web Version
         id: update_version
