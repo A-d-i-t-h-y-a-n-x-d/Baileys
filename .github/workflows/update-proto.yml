@@ -1,4 +1,4 @@
-name: Update WAProto
+Name: Update WAProto
 
 on:
   schedule:
@@ -29,8 +29,8 @@ jobs:
 
       - name: Install packages
         run: |
-          yarn install --immutable
-          yarn --cwd proto-extract install --immutable
+          yarn install
+          yarn --cwd proto-extract install
 
       - name: Update WAProto.proto
         id: wa_proto_info
